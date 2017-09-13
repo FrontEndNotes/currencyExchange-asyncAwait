@@ -13,10 +13,10 @@ Promise:
 ```
 Async Await:
 ```
-\project-folder>node currency-exchange-promise.js
+\project-folder>node currency-exchange-async-await.js
 ```
 
 
 ## APIs used
-[Fixer](https://fixer.io)
-[REST Countries](https://restcountries.eu)
+- [Fixer](https://fixer.io)
+- [REST Countries](https://restcountries.eu)
